@@ -62,21 +62,4 @@ python analysis/exploratory_analysis.py
 
 ## 👤 Credits
 
-Developed by **Atenshen Longkumer** with help from ChatGPT.
-
----
-
-## 📂 Data Snapshot
-
-| Service         | Monthly Cost | Total Titles | Originals Count | User Rating |
-|----------------|--------------|---------------|------------------|--------------|
-| Netflix         | $15.49       | 5000          | 1500             | 4.5          |
-| Hulu            | $7.99        | 3000          | 800              | 4.0          |
-| Disney+         | $7.99        | 2000          | 900              | 4.2          |
-| Amazon Prime    | $8.99        | 4000          | 700              | 4.1          |
-| HBO Max         | $9.99        | 2500          | 1000             | 4.3          |
-| ...             | ...          | ...           | ...              | ...          |
-
----
-
-Enjoy analyzing and comparing your favorite streaming services!
+Developed by **Atenshen Longkumer** 
